@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B42147732D36A36E00EC607F /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B42147722D36A36E00EC607F /* CustomTableViewCell.swift */; };
 		B44FE8E42D3552A4007C2A77 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B44FE8E32D3552A4007C2A77 /* AppDelegate.swift */; };
 		B44FE8E62D3552A4007C2A77 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B44FE8E52D3552A4007C2A77 /* SceneDelegate.swift */; };
 		B44FE8E82D3552A4007C2A77 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B44FE8E72D3552A4007C2A77 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B42147722D36A36E00EC607F /* CustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
 		B44FE8E02D3552A4007C2A77 /* To_Do_List.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = To_Do_List.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B44FE8E32D3552A4007C2A77 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B44FE8E52D3552A4007C2A77 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				B44FE8F12D3552A5007C2A77 /* LaunchScreen.storyboard */,
 				B44FE8F42D3552A5007C2A77 /* Info.plist */,
 				B44FE8EC2D3552A4007C2A77 /* To_Do_List.xcdatamodeld */,
+				B42147722D36A36E00EC607F /* CustomTableViewCell.swift */,
 			);
 			path = To_Do_List;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B44FE8E82D3552A4007C2A77 /* ViewController.swift in Sources */,
+				B42147732D36A36E00EC607F /* CustomTableViewCell.swift in Sources */,
 				B44FE8E42D3552A4007C2A77 /* AppDelegate.swift in Sources */,
 				B44FE8E62D3552A4007C2A77 /* SceneDelegate.swift in Sources */,
 				B44FE8EE2D3552A4007C2A77 /* To_Do_List.xcdatamodeld in Sources */,
